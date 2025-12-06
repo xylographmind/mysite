@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sn694097.wixstudio.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1765040567|L_6cFSu38hjE
+sn694097.wixstudio.com	TRUE	/	FALSE	1999999999	SameSite	None
+sn694097.wixstudio.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=uw2-pub-1_g
+
